@@ -136,7 +136,6 @@ This project is distributed under the MIT License. See `LICENSE` for more inform
 
 ## Acknowledgements
 
-*   **MetaGPT:** For demonstrating the future of AI-powered software development.
 *   **Supabase:** For providing a powerful and easy-to-use backend solution.
 *   **You:** For taking the time to explore PayTrack!
 
