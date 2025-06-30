@@ -8,8 +8,8 @@
 
 PayTrack is a modern, full-stack web application designed to help you take control of your finances. Track your income and expenses, set monthly budgets, and visualize your financial habits with clear, insightful reports. This entire application was bootstrapped using **MetaGPT**, showcasing the power of AI-driven development to rapidly build production-ready software.
 
-![PayTrack Application Screenshot](./paytrack-demo.png)
-*(Note: It is highly recommended to replace this placeholder with an actual screenshot of your application's dashboard.)*
+![image](https://github.com/user-attachments/assets/182db816-7d2d-47ea-a37a-8686b48379f2)
+
 
 ## Key Features
 
